@@ -25,10 +25,10 @@ let pNephews = 3;
 let gNephews = 1;
 let oNephews = 0;
 
-console.log(tNephews);
-console.log(pNephews);
-console.log(gNephews);
-console.log(oNephews);
+// console.log(tNephews);
+// console.log(pNephews);
+// console.log(gNephews);
+// console.log(oNephews);
 
 console.log(`I nipoti dei personaggi che abitano a ${city1} sono in totale ` + (tNephews + gNephews + oNephews));
 console.log(`I nipoti che abitano a ${city2} sono ` + (tNephews + pNephews + gNephews + oNephews - (tNephews + gNephews)));
